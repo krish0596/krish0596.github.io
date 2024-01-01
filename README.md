@@ -1,1 +1,1 @@
-# krish0596.github.io
+Static webpage
